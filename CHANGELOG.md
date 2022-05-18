@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.1.7
+
+* added banner on multipath managed files
+
 ## 0.1.6
 
 * Added support for RHEL8
